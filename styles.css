@@ -1,0 +1,48 @@
+html{
+    height: 100%
+}
+body {
+    /* height: 100%; */
+    /*margin: 0;*/
+    background-repeat: no-repeat;
+    background-image: linear-gradient(dimgray, gray)
+}
+h1 {
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2%;
+}
+.homepage-bullet{
+    width: 250px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.recipe-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 100px;
+}
+.lasagna-picture{
+    width: 250px;
+    height: auto;
+    
+}
+.mac-and-cheese-picture{
+    width:250px;
+    height:auto;
+}
